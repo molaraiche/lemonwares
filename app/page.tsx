@@ -1,6 +1,7 @@
 import Cloud from "@/components/Cloud";
 import Hero from "@/components/Hero";
 import Packages from "@/components/Packages";
+import Testimonials from "@/components/Testimonials";
 
 const App = () => {
   return (
@@ -8,6 +9,7 @@ const App = () => {
       <Hero />
       <Cloud />
       <Packages />
+      <Testimonials />
     </section>
   );
 };

@@ -7,10 +7,10 @@ const Cloud = () => {
     <div className='w-full mt-20'>
       <div className='flex justify-between items-center '>
         <div className=''>
-          <h2 className='text-5xl font-inter font-extrabold text-Text/Gray 900 w-[594px]'>
+          <h2 className='text-5xl font-inter font-extrabold text-Text/Gray-900 w-[594px]'>
             True Cloud Web Hosting
           </h2>
-          <p className='text-lg text-Text/Gray 900 w-[573px] py-5'>
+          <p className='text-lg text-Text/Gray-900 w-[573px] py-5'>
             True Cloud Web Hosting All of the hosting packages we offer are
             deployed instantly on our SSD powered cloud. We don&apos;t use
             dedicated servers that operate on single pieces of hardware. Our
