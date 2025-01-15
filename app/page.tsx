@@ -1,4 +1,6 @@
+import Clients from "@/components/Clients";
 import Cloud from "@/components/Cloud";
+import CTA from "@/components/CTA";
 import Hero from "@/components/Hero";
 import Packages from "@/components/Packages";
 import Testimonials from "@/components/Testimonials";
@@ -10,6 +12,8 @@ const App = () => {
       <Cloud />
       <Packages />
       <Testimonials />
+      <Clients />
+      <CTA />
     </section>
   );
 };

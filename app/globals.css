@@ -2,3 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
+#cta {
+  background: url("../public/assets/Elements.svg") no-repeat center/center;
+}

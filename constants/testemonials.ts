@@ -23,3 +23,30 @@ export const testemonials = [
     position: "Co-Founder, LeeveOn Branding",
   },
 ];
+
+export const clients = [
+  {
+    id: 1,
+    img: "/assets/jpnl.svg",
+  },
+  {
+    id: 2,
+    img: "/assets/korane.svg",
+  },
+  {
+    id: 3,
+    img: "/assets/nadine.svg",
+  },
+  {
+    id: 4,
+    img: "/assets/leeveon.svg",
+  },
+  {
+    id: 5,
+    img: "/assets/jrang.svg",
+  },
+  {
+    id: 6,
+    img: "/assets/crypto.png",
+  },
+];
